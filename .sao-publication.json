@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "fichiers": [
+    ".nojekyll",
+    ".sao-publication.json",
+    "README.md",
+    "bmk/index.html",
+    "cs/index.html",
+    "dt/index.html",
+    "fm/index.html",
+    "index.html",
+    "jnb/index.html",
+    "liens-par-sao.json",
+    "ms/index.html",
+    "ro/index.html",
+    "rsk/index.html",
+    "sm/index.html",
+    "tth/index.html"
+  ]
+}
